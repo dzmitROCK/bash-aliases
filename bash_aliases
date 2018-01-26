@@ -3,7 +3,8 @@
 
 # git
 function ga() {
-    git add . & git status
+    git add .
+    git status
 }
 
 function gc(){
@@ -19,14 +20,6 @@ alias gps='git push'
 function lampp(){
     sudo /opt/lampp/lampp $1
 }
-
-
-
-
-
-
-
-
 
 alias rmrf='rm -rf'
 alias mkdir='mkdir -p'
