@@ -21,6 +21,7 @@ function lampp(){
     sudo /opt/lampp/lampp $1
 }
 
+alias suvi='sudo -E vim "$*"'
 alias rmrf='rm -rf'
 alias mkdir='mkdir -p'
 alias ll='ls -l'
