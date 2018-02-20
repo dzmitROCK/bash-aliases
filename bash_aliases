@@ -6,6 +6,7 @@ function xampp(){
 }
 
 
+
 # wordpress
 #alias wpinstall='mkdir $1 & cd $1 & wp core download --allow-root --locale=ru_RU'
 function wpinstall(){
