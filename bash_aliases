@@ -17,7 +17,7 @@ function wpinstall(){
     cd ..
 }
 
-function lamp(){
+function lampik(){
     sudo systemctl $1 httpd mysqld
 }
 # rest aliases ################
