@@ -43,3 +43,4 @@ function gc(){
 alias gst='git status'
 alias gpl='git pull'
 alias gps='git push'
+
