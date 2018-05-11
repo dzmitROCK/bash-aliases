@@ -28,3 +28,4 @@ alias ll='ls -l'
 alias gogo='source ~/.bashrc'
 source ~/.bashrc_config/git_aliases
 
+
