@@ -26,6 +26,6 @@ alias suvi='sudo -E vim'
 alias rmrf='rm -rf'
 alias ll='ls -l'
 alias gogo='source ~/.bashrc'
-source ~/.bashrc_config/git_aliases
+source ~/.bash_aliases/git_aliases
 
 
